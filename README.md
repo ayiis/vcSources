@@ -1,5 +1,5 @@
 # vcSources
-To Share
+Some codes in my early coding life
 
 
-It's yours now.
+Feel free to take it
