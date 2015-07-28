@@ -18,6 +18,6 @@ Vscan1.23
 2. 更高效的代码
 
 2014-08-04
-Vscan1.24 READ ON/OFF
+Vscan1.24
 
 0. 优化代码
